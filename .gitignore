@@ -241,3 +241,17 @@ Thumbs.db
 
 # ChromaDB local database
 chroma_db/
+
+# Additional project exclusions
+venv314/
+hf_cache/
+pip_cache/
+temp/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# ChromaDB database
+chroma_db/
