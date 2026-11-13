@@ -1,2 +1,9 @@
-# pdf-rag-chatbot
-A Retrieval-Augmented Generation chatbot that answers questions from uploaded PDF documents.
+## 🚀 Live Demo
+
+**Try the application here:**
+
+[PDF RAG Chatbot – Live Application](https://imthiyaz-pdf-rag-chatbot.streamlit.app/)
+
+## 💻 Source Code
+
+[View GitHub Repository](https://github.com/imthiyaz-asm/pdf-rag-chatbot)
